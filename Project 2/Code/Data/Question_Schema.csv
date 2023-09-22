@@ -1,0 +1,21 @@
+Question ID,Full_Question,Short_Form
+1,Select the range of your age,Age_Range
+2,Your gender,Gender
+3,Select your educational level,Educational_Level
+4,Have you experienced any health issues as a result of your excess drinking behavior?,Experienced_Health_Issues
+5,"If yes, please specify the health issues you have encountered due to excess drinking.",Health_Issues_Type
+6,How frequently do you experience hangovers after a night of excessive drinking?,Hangover_Experience
+7,"Have you noticed any changes in your mental well-being, such as increased anxiety or depression, related to your excess drinking behavior? ",Mental_Sickness
+8,"If yes, please describe how much excess drinking has affected your mental well-being.",Mental_Sickness_Level
+9,"Have your personal relationships, including friendships and romantic relationships, been impacted by your excess drinking behavior?",Relationship_Impact
+10,"If yes, please indicate how much your social relationships have been affected.",Relationship_Impact_Level
+11,Do you believe that your academic or professional life has been negatively influenced by your excess drinking?,Negative_Influenced_Academic_Professional
+12,Have you ever searched for medical treatment or counseling for alcohol-related issues?,Medical_Treatment
+13,Have you tried to cut down or control your alcohol consumption because of concerns about its long-term consequences?,Control_CutDown
+14,How would you rate your overall physical health on a scale of 1 to 10?, Physical _Health_Level
+15,How would you rate your mental well-being on a scale of 1 to 10?,Mental_Health_Level
+16,Have you ever participated in alcohol rehabilitation or support programs?,Participated_Alcohol_Rehabilitation
+17,"Are you aware of the potential risk factors associated with long-term excess drinking, such as liver disease or addiction?",Potential_Risk_Factor
+18,Do you feel that excess drinking has hindered your ability to achieve your life goals and aspirations?,Achieve_Life_Goals
+19,Have you lost friends or strained family relationships due to your drinking habits?,Friendship_Lost
+20,Indicate the extent to which you believe alcohol has negative impact on the following aspects  [Physical health],Negative_Impact_of_Alcohol

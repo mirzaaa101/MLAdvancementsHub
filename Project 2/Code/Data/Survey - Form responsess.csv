@@ -1,0 +1,173 @@
+Age_Range,Gender,Educational_Level,Experienced_Health_Issues,Health_Issues_Type,Hangover_Experience,Mental_Sickness,Mental_Sickness_Level,Relationship_Impact,Relationship_Impact_Level,Negative_Influenced_Academic_Professional,Medical_Treatment,Control_CutDown,Physical _Health_Level,Mental_Health_Level,Participated_Alcohol_Rehabilitation,Potential_Risk_Factor,Achieve_Life_Goals,Friendship_Lost,Negative_Impact_of_Alcohol
+20-30,Male,High School,No,,5,No,,No,,No,No,No,8,8,No,No,No,No,Neutral
+20-30,Male,College,No,,2,No,,No,,No,No,Yes,5,5,No,Yes,Yes,No,Agree
+20-30,Female,University,No,,8,Yes,7,Yes,8,Yes,Yes,Yes,8,8,No,Yes,No,No,Neutral
+20-30,Female,University,No,,8,Yes,7,Yes,8,Yes,Yes,Yes,8,8,No,Yes,No,No,Neutral
+20-30,Female,University,No,,8,Yes,7,Yes,8,Yes,Yes,Yes,8,8,No,Yes,No,No,Neutral
+20-30,Male,College,No,,3,No,2,No,1,No,No,No,8,8,No,Yes,No,No,Disagree
+20-30,Female,College,Yes,hangover,9,Yes,5,No,,No,Yes,No,8,9,No,No,No,No,Neutral
+20-30,Female,University,Yes,Hangover,7,No,,No,,No,No,No,8,9,No,No,No,No,Agree
+20-30,Female,University,No,,8,No,1,No,1,No,No,No,7,8,No,Yes,No,No,Agree
+20-30,Female,College,No,,1,No,1,No,1,No,No,No,9,8,No,Yes,No,No,Disagree
+20-30,Male,University,Yes,Hangover,8,Yes,7,Yes,8,Yes,No,No,9,9,No,Yes,No,No,Agree
+20-30,Male,University,Yes,Hangover,9,No,,No,,No,No,Yes,9,9,No,No,No,No,Agree
+20-30,Female,University,Yes,Hangover,7,No,,No,,Yes,No,No,10,10,No,No,No,No,Agree
+20-30,Female,University,Yes,Hangover,10,Yes,8,No,3,Yes,No,No,9,7,No,Yes,No,No,Agree
+40-50,Male,Other,Yes,hangover,7,No,,No,,No,Yes,Yes,9,8,No,No,No,No,Agree
+50+,Female,Other,Yes,Hangover,9,No,,No,,No,No,No,10,9,No,No,No,No,Agree
+50+,Female,Other,No,,1,No,,No,,No,No,No,10,10,No,No,No,No,Agree
+20-30,Male,High School,Yes,Hangover,8,No,,No,,No,Yes,No,8,9,No,No,No,No,Agree
+40-50,Female,University,Yes,Hangover,10,Yes,8,Yes,2,No,Yes,No,8,8,No,Yes,Yes,No,Somewhat Agree
+20-30,Female,University,No,,2,No,4,No,,No,No,No,9,9,No,Yes,No,No,Somewhat Disagree
+20-30,Female,High School,Yes,Hangover ,6,No,,Yes,8,Yes,Yes,No,7,9,No,Yes,Yes,Yes,Agree
+20-30,Female,High School,Yes,hangover,7,No,,No,,No,No,No,10,10,No,Yes,No,No,Agree
+20-30,Female,University,Yes,Hangover,9,No,,Yes,8,Yes,Yes,No,9,10,No,Yes,No,Yes,Agree
+20-30,Female,University,Yes,hangover,8,Yes,,Yes,10,No,No,No,9,8,Yes,Yes,Yes,Yes,Agree
+20-30,Female,University,Yes,hangover,8,Yes,,Yes,10,No,No,No,9,8,Yes,Yes,Yes,Yes,Agree
+40-50,Female,High School,Yes,physical injury,9,Yes,8,Yes,8,Yes,Yes,Yes,8,7,No,Yes,Yes,No,Agree
+40-50,Female,High School,Yes,Physical injury,10,No,,No,,Yes,No,No,8,8,No,Yes,No,No,Agree
+40-50,Female,High School,Yes,Knee injury ,9,Yes,10,Yes,9,Yes,Yes,Yes,6,7,Yes,Yes,Yes,Yes,Somewhat Disagree
+40-50,Female,High School,Yes,Physical injury,10,Yes,9,Yes,8,Yes,Yes,Yes,7,6,Yes,Yes,Yes,Yes,Somewhat Agree
+40-50,Female,University,Yes,Stomach issues,7,Yes,8,,,No,No,No,7,8,No,Yes,No,No,Agree
+50+,Male,Other,Yes,Cardiovascular problems,9,Yes,9,No,,Yes,No,No,8,7,No,Yes,Yes,No,Agree
+20-30,Female,University,Yes,Hangover,7,No,,No,,No,No,No,9,9,No,Yes,No,No,Somewhat Agree
+40-50,Prefer not to say,University,,Gastrointestinal issues,9,No,7,No,7,No,No,No,7,8,No,Yes,Yes,No,Agree
+40-50,Male,Other,Yes,liver disease,9,No,,Yes,8,Yes,No,No,7,6,No,Yes,Yes,No,Agree
+40-50,Female,Other,No,,6,No,,No,,Yes,No,No,9,9,No,Yes,Yes,No,Agree
+40-50,Female,University,Yes,Cardiovascular problems,10,Yes,9,Yes,3,Yes,No,No,8,8,No,Yes,Yes,No,Agree
+40-50,Female,University,No,,9,Yes,10,No,2,No,No,No,8,8,No,Yes,No,No,Somewhat Agree
+50+,Male,High School,Yes,Cardiovascular issues,9,Yes,8,Yes,7,No,No,No,8,8,No,Yes,Yes,Yes,Agree
+20-30,Male,University,No,stomach problems,5,Yes,8,Yes,8,Yes,No,No,8,8,No,Yes,Yes,No,Agree
+20-30,Female,University,No,,3,Yes,7,No,7,Yes,No,No,9,8,No,Yes,No,No,Agree
+50+,Male,University,No,,6,Yes,8,Yes,6,No,No,No,8,8,No,Yes,No,No,Somewhat Agree
+20-30,Female,University,No,,7,No,2,No,,Yes,No,No,9,9,No,Yes,Yes,No,Agree
+40-50,Female,Other,No,,6,,,No,3,Yes,No,No,8,9,No,Yes,No,No,Agree
+40-50,Male,University,Yes,Hangover ,6,No,5,No,4,No,No,No,8,9,No,Yes,No,No,Neutral
+40-50,Male,University,Yes,Hangover,7,No,5,No,4,No,No,No,7,9,No,Yes,Yes,Yes,Agree
+40-50,Male,University,Yes,Hangover ,6,No,5,No,4,No,No,No,8,9,No,Yes,No,No,Neutral
+20-30,Female,University,No,,5,No,,No,,No,No,No,8,8,No,No,No,No,Disagree
+20-30,Female,University,No,,1,No,1,No,1,Yes,No,Yes,8,9,No,Yes,Yes,No,Agree
+20-30,Female,University,Yes,Hangover,8,Yes,8,No,,Yes,No,No,9,8,No,Yes,Yes,No,Agree
+20-30,Female,University,No,,3,Yes,4,No,,Yes,No,No,9,9,No,No,Yes,No,Agree
+20-30,Male,High School,No,,6,Yes,6,No,5,No,No,No,6,6,No,Yes,No,No,Somewhat Disagree
+20-30,Female,University,No,,3,Yes,5,Yes,10,Yes,Yes,Yes,9,5,No,No,No,Yes,Somewhat Disagree
+40-50,Male,University,Yes,Hangover ,6,No,5,No,4,No,No,No,8,9,No,Yes,No,No,Neutral
+40-50,Male,University,Yes,Hangover ,6,No,5,No,4,No,No,No,8,9,No,Yes,No,No,Neutral
+20-30,Male,High School,No,,3,Yes,1,Yes,1,No,No,Yes,7,9,No,Yes,Yes,No,Neutral
+40-50,Female,Other,No,,3,No,,Yes,6,Yes,No,No,8,8,No,Yes,Yes,No,Agree
+50+,Male,Other,Yes,cardiovascular problems,7,Yes,7,Yes,7,Yes,No,No,8,7,No,Yes,No,No,Agree
+20-30,Female,University,Yes,Hangover,7,No,,Yes,8,Yes,No,No,10,8,No,Yes,Yes,No,Agree
+20-30,Female,University,No,,,No,,No,,Yes,No,No,10,10,No,Yes,No,No,Agree
+20-30,Male,University,No,,5,No,,Yes,6,Yes,Yes,No,9,9,No,Yes,Yes,No,Agree
+20-30,Female,University,No,,6,No,,No,,Yes,No,No,8,9,No,Yes,No,No,Agree
+50+,Female,Other,Yes,Liver disease,9,No,,Yes,8,Yes,No,No,8,8,No,Yes,No,No,Agree
+40-50,Male,Other,Yes,Cardiovascular problems,5,No,,Yes,6,No,No,Yes,6,7,No,Yes,Yes,No,Agree
+20-30,Male,College,No,No,2,No,1,No,1,No,No,No,10,10,No,Yes,No,No,Neutral
+20-30,Male,College,No,,2,No,,No,,No,No,No,9,9,No,Yes,No,No,Disagree
+40-50,Male,University,Yes,Hangover ,6,No,5,No,4,No,No,No,8,9,No,Yes,No,No,Neutral
+20-30,Male,University,No,,1,No,,No,,Yes,No,Yes,7,9,No,No,No,No,Agree
+20-30,Male,College,No,,2,No,,No,,No,No,,10,10,No,Yes,,,Disagree
+20-30,Male,University,No,,1,No,,No,,No,No,No,8,5,No,Yes,No,No,Disagree
+20-30,Female,University,No,,4,No,,No,,No,No,No,9,7,No,Yes,No,No,Agree
+20-30,Male,University,No,,5,No,,Yes,6,Yes,No,No,8,7,No,Yes,Yes,No,Agree
+20-30,Female,High School,No,,1,No,,No,,No,No,No,7,7,No,Yes,No,No,Agree
+20-30,Female,University,Yes,hangover,8,No,9,No,9,No,No,Yes,8,8,No,Yes,Yes,No,Somewhat Agree
+20-30,Female,High School,No,,7,Yes,8,No,,No,No,No,9,10,No,Yes,No,No,Agree
+20-30,Male,University,Yes,Hangover,5,Yes,7,No,,Yes,No,No,7,9,No,Yes,Yes,No,Agree
+40-50,Male,University,Yes,LIVER DISEASE,1,Yes,8,No,,Yes,No,Yes,4,7,No,Yes,Yes,No,Agree
+20-30,Male,High School,No,,5,No,,No,,No,No,No,10,9,No,Yes,Yes,No,Agree
+20-30,Female,High School,No,,2,No,,No,,Yes,No,No,9,9,No,Yes,Yes,No,Agree
+20-30,Male,High School,No,,7,No,1,No,,No,No,No,9,8,No,Yes,No,No,Agree
+20-30,Male,University,No,,2,No,,No,,No,No,No,9,9,No,No,No,Yes,Neutral
+50+,Female,Other,Yes,cardiovascular problems,1,Yes,8,Yes,6,No,No,Yes,6,8,No,Yes,Yes,No,Agree
+20-30,Male,University,No,,5,No,,No,,No,No,No,9,9,No,Yes,No,No,Agree
+50+,Female,University,Yes,Sprain,6,No,,Yes,8,Yes,No,No,7,7,No,Yes,Yes,No,Agree
+20-30,Female,High School,No,,1,No,3,No,2,No,No,No,10,10,No,Yes,No,No,Somewhat Agree
+20-30,Male,University,No,,5,No,,Yes,3,Yes,No,No,8,10,No,Yes,No,Yes,Agree
+20-30,Male,University,No,,3,No,3,No,2,No,No,No,9,9,No,Yes,No,No,Somewhat Agree
+20-30,Male,High School,No,,2,No,,No,,No,No,No,9,9,No,Yes,No,No,
+20-30,Male,University,No,,4,No,,No,,Yes,No,No,9,8,No,Yes,No,No,Agree
+20-30,Male,University,No,,7,No,,Yes,6,Yes,No,No,8,8,No,Yes,No,No,Agree
+20-30,Female,University,No,,4,No,,No,,No,No,No,8,8,No,Yes,No,No,Agree
+20-30,Male,Other,No,,4,Yes,4,No,,No,No,No,8,6,No,Yes,No,No,Agree
+20-30,Male,High School,No,,6,No,,No,,No,No,No,5,6,No,Yes,No,No,Agree
+20-30,Female,University,No,,5,No,,No,,No,No,No,6,6,No,Yes,No,No,Agree
+20-30,Female,University,No,,3,No,,No,,No,No,No,7,6,No,Yes,No,No,Somewhat Agree
+20-30,Female,University,No,,2,No,,No,,No,No,No,7,6,No,Yes,No,No,Somewhat Agree
+20-30,Female,University,No,,2,No,,No,,No,No,No,9,7,,Yes,No,No,Agree
+20-30,Male,University,No,,7,No,,No,,No,No,No,6,6,No,Yes,No,No,Agree
+20-30,Male,University,No,,5,No,,No,,No,No,No,5,6,No,Yes,No,No,Agree
+20-30,Male,University,Yes,hangover,5,Yes,4,No,,No,No,No,6,6,No,Yes,Yes,No,Neutral
+20-30,Male,University,Yes,hangover,4,No,,Yes,9,No,No,No,6,6,No,Yes,No,No,Somewhat Agree
+20-30,Female,High School,No,,2,No,,No,,No,No,No,9,9,No,Yes,No,No,Agree
+20-30,Male,University,Yes,fracture,4,Yes,7,Yes,9,Yes,Yes,Yes,8,7,No,Yes,No,No,Somewhat Agree
+20-30,Male,University,Yes,headache ,4,Yes,5,Yes,8,Yes,No,Yes,8,7,No,Yes,Yes,Yes,Agree
+20-30,Male,University,No,,8,No,,No,,No,No,No,9,9,No,Yes,No,No,Agree
+20-30,Male,High School,No,,7,No,,No,,No,No,No,8,9,No,Yes,No,No,Agree
+20-30,Male,University,No,,3,No,,No,,No,No,No,8,10,No,Yes,No,No,Agree
+20-30,Female,University,No,,1,Yes,5,No,,No,No,Yes,10,6,No,Yes,No,No,Somewhat Agree
+20-30,Female,Other,Yes,sprain,4,Yes,7,Yes,7,No,No,Yes,9,6,No,Yes,No,No,Somewhat Agree
+20-30,Female,High School,No,,4,Yes,5,No,,No,No,No,8,9,No,Yes,No,No,Agree
+20-30,Female,University,No,,8,No,,No,,No,No,No,9,9,No,Yes,No,No,Agree
+20-30,Female,University,No,,5,No,,Yes,7,No,No,No,7,8,No,Yes,No,No,Agree
+20-30,Male,University,Yes,unconsciousness,7,Yes,5,Yes,10,No,No,No,7,5,No,No,No,No,Somewhat Agree
+20-30,Male,University,Yes,i fainted,7,Yes,8,No,,No,No,No,7,6,No,Yes,No,No,Somewhat Agree
+20-30,Male,University,No,,2,No,,Yes,8,No,No,No,9,8,No,Yes,No,Yes,Agree
+20-30,Male,University,Yes,hangover,5,Yes,4,Yes,7,Yes,No,Yes,8,6,No,Yes,No,No,Neutral
+20-30,Male,University,Yes,sprain,5,Yes,5,Yes,10,No,No,Yes,8,6,No,Yes,No,No,Neutral
+40-50,Male,University,Yes,Cardiovascular problems,6,Yes,9,Yes,9,No,No,No,6,7,No,Yes,No,No,Agree
+20-30,Female,University,No,,1,Yes,4,No,1,Yes,No,Yes,1,1,No,Yes,No,No,Disagree
+20-30,Female,High School,No,,6,No,,No,,No,No,No,9,8,No,Yes,No,No,Agree
+20-30,Male,University,,Hangover,8,Yes,7,Yes,5,No,No,,9,7,No,Yes,No,No,Neutral
+20-30,Male,University,Yes,hangover,8,No,,Yes,8,No,No,Yes,8,7,No,Yes,No,No,Somewhat Agree
+40-50,Male,Other,Yes,liver disease,,Yes,8,No,,No,No,Yes,7,7,No,Yes,No,No,Agree
+20-30,Male,University,Yes,hangover,6,No,,Yes,7,No,No,Yes,8,8,No,Yes,No,No,Somewhat Agree
+20-30,Male,University,Yes,hangover,3,No,,Yes,6,No,Yes,Yes,9,9,No,Yes,No,No,Somewhat Disagree
+20-30,Male,College,No,,2,No,,No,,Yes,No,No,8,9,No,No,No,No,Somewhat Agree
+20-30,Female,University,No,,6,No,,No,,No,No,No,7,8,No,Yes,No,No,Agree
+20-30,Male,University,No,,8,No,,No,,No,No,No,9,8,No,Yes,No,No,Agree
+20-30,Male,University,Yes,i broke my hand ,8,Yes,7,Yes,6,Yes,Yes,Yes,8,7,No,Yes,No,No,Neutral
+20-30,Male,University,Yes,broken arm,8,Yes,5,Yes,7,Yes,No,Yes,10,9,No,Yes,No,No,Somewhat Agree
+20-32,Female,High School,No,,2,No,,No,,No,No,No,9,8,No,Yes,No,No,Agree
+20-33,Male,University,Yes,hangover,7,No,,No,,No,No,No,9,9,No,Yes,No,No,Agree
+20-34,Male,University,No,,7,Yes,8,No,,No,No,No,9,8,No,Yes,Yes,No,Agree
+20-35,Male,College,No,,8,No,,No,,No,No,No,8,7,No,Yes,No,No,Agree
+20-30,Female,College,No,,4,No,,No,,No,No,No,9,9,No,Yes,No,No,Somewhat Disagree
+20-30,Male,High School,No,,8,No,,No,,No,No,No,10,9,No,Yes,No,No,Agree
+20-30,Female,University,No,,1,No,,No,,No,No,No,10,10,No,Yes,No,No,Agree
+20-30,Male,High School,No,,6,No,,No,,No,No,No,9,10,No,Yes,No,No,Agree
+20-30,Female,University,No,,4,No,,No,,No,Yes,No,10,10,No,Yes,No,No,Agree
+20-30,Female,University,Yes,anxiety,8,Yes,10,Yes,9,No,No,Yes,8,5,No,Yes,No,No,Agree
+20-30,Female,University,Yes,Mental health issues ,10,Yes,10,Yes,7,No,No,Yes,8,5,No,Yes,No,No,Somewhat Disagree
+30-40,Male,University,No,,5,No,,No,,No,No,No,9,10,No,Yes,No,,Agree
+30-40,Female,Other,No,,7,Yes,8,No,,No,No,No,8,8,No,Yes,,No,Agree
+30-40,Female,Other,No,,1,No,,No,,No,No,No,8,8,No,Yes,No,No,Agree
+20-30,Female,University,Yes,Dizziness,8,Yes,8,Yes,7,No,Yes,Yes,8,6,No,Yes,No,No,Somewhat Agree
+20-30,Female,University,Yes,hangover,9,Yes,9,Yes,10,No,Yes,Yes,9,7,No,Yes,No,No,Somewhat Agree
+30-40,Male,Other,No,,3,Yes,4,No,,No,No,No,8,7,No,Yes,No,No,Agree
+30-40,Male,University,No,,6,No,,No,,No,No,No,9,9,No,Yes,No,No,Agree
+30-40,Male,University,No,,2,No,,No,,No,No,No,10,9,No,Yes,No,No,Agree
+20-30,Male,University,Yes,Broken arm and leg,4,Yes,2,Yes,10,Yes,No,Yes,7,9,Yes,Yes,No,Yes,Neutral
+20-30,Male,University,Yes,"Headache, loss of strength, vomiting",2,Yes,3,Yes,10,Yes,No,Yes,7,8,No,Yes,No,No,Agree
+20-30,Female,High School,No,,3,No,,No,,No,No,No,9,9,No,Yes,No,No,Agree
+20-30,Female,University,No,,8,No,,No,9,No,No,No,9,8,No,Yes,No,No,Agree
+30-40,Male,University,Yes,Cardiovascular problems,9,Yes,8,No,,No,No,No,8,7,No,Yes,No,No,Agree
+20-30,Male,High School,Yes,Liver and heart problems,1,Yes,10,Yes,9,No,No,Yes,6,7,No,Yes,Yes,Yes,Agree
+20-30,Male,University,No,,1,No,,No,,No,No,No,10,10,No,No,Yes,No,Agree
+20-30,Male,High School,Yes,Heart problem,5,Yes,6,Yes,8,No,No,Yes,7,8,No,Yes,Yes,Yes,Agree
+20-30,Male,University,Yes,Hangover,1,No,,Yes,7,No,No,Yes,8,9,No,Yes,Yes,Yes,Agree
+20-30,Male,University,Yes,Hangover,3,No,,Yes,8,No,No,Yes,8,9,No,Yes,Yes,Yes,Agree
+20-30,Male,University,Yes,hangover,10,Yes,5,No,,No,No,No,9,8,No,Yes,No,No,Somewhat Agree
+20-30,Female,University,Yes,Gastrointestinal problems,8,Yes,7,Yes,8,No,No,Yes,5,7,No,Yes,No,No,Somewhat Agree
+20-30,Female,University,Yes,Gastrointestinal problems,8,Yes,7,Yes,8,No,No,Yes,5,7,No,Yes,No,No,Somewhat Agree
+20-30,Female,University,Yes,Stomach problems,8,Yes,8,Yes,10,No,Yes,Yes,9,6,No,Yes,Yes,No,Agree
+20-30,Female,University,Yes,Issues with focus and memory ,9,Yes,9,Yes,10,No,No,Yes,8,7,No,Yes,No,No,Agree
+20-30,Female,University,Yes,,2,No,5,No,3,No,No,No,10,10,No,No,No,No,Disagree
+20-30,Male,University,No,,7,Yes,3,No,,Yes,No,Yes,9,8,No,Yes,No,No,Agree
+20-30,Female,University,Yes,nausea,2,No,,Yes,1,No,No,No,10,10,No,No,No,No,Agree
+20-30,Female,University,Yes,nausea,2,No,,Yes,1,No,No,No,10,10,No,No,No,No,Agree
+20-30,Female,University,Yes,nausea,2,Yes,1,No,,No,No,No,10,10,No,No,No,No,Agree
+20-30,Male,High School,No,,,,,,,,,,,7,No,Yes,No,,
+20-30,Male,College,No,,3,No,,No,,No,No,No,9,10,No,No,No,No,Somewhat Disagree
+20-30,Female,University,No,,4,No,,No,,No,No,Yes,6,4,No,Yes,No,No,Agree
+20-30,Male,High School,No,,1,No,1,No,1,No,No,No,7,8,No,No,No,No,Somewhat Disagree
